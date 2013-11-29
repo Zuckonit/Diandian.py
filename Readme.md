@@ -1,5 +1,5 @@
 ##Diandian.py
-> it is a python script
+> it is a python script  
 > realize some functions of diandian website
   
 ##Whoa
